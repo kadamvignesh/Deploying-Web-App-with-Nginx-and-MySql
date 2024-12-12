@@ -1,30 +1,7 @@
-# Simple Notes App for TWS Community
-This is a simple notes app built with React and Django.
+![image alt](https://github.com/kadamvignesh/Deploying-Web-App-with-Nginx-and-MySql/blob/main/Screenshot%20(108).png?raw=true)
 
-## Requirements
-1. Python 3.9
-2. Node.js
-3. React
+![image alt](https://github.com/kadamvignesh/Deploying-Web-App-with-Nginx-and-MySql/blob/main/Screenshot%20(109).png?raw=true)
 
-## Installation
-1. Clone the repository
-```
-git clone https://github.com/LondheShubham153/django-notes-app.git
-```
+![image alt](https://github.com/kadamvignesh/Deploying-Web-App-with-Nginx-and-MySql/blob/main/Screenshot%20(110).png?raw=true)
 
-2. Build the app
-```
-docker build -t notes-app .
-```
-
-3. Run the app
-```
-docker run -d -p 8000:8000 notes-app:latest
-```
-
-## Nginx
-
-Install Nginx reverse proxy to make this application available
-
-`sudo apt-get update`
-`sudo apt install nginx`
+![image alt](https://github.com/kadamvignesh/Deploying-Web-App-with-Nginx-and-MySql/blob/main/Screenshot%20(111).png?raw=true)
